@@ -1,0 +1,8 @@
+{
+  "firstName" : "Alice",
+  "lastName" : "Wonderland",
+  "displayHandle" :"aliceWonderland",
+  "posts" : ["Hello Wonderland" , "Has anyone seen the Cheshire Cat?" , "Time for tea with the Mad Hatter"],
+  "age" : 18,
+  "active" : true
+}
